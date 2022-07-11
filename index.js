@@ -1,1 +1,1 @@
-module.exports = require('./src/deepl-translator');
+module.exports = require('./deepl-translator')
